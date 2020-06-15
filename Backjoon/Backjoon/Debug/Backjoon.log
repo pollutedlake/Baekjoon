@@ -1,3 +1,4 @@
-﻿  1006 습격자 초라기.cpp
-C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Baekjoon\Backjoon\Backjoon\1006 습격자 초라기.cpp(6,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+﻿  1021 회전하는 큐.cpp
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Baekjoon\Backjoon\Backjoon\1021 회전하는 큐.cpp(27,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Baekjoon\Backjoon\Backjoon\1021 회전하는 큐.cpp(32,11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Backjoon.vcxproj -> C:\Users\psh95\OneDrive\바탕 화면\상현\공부\Baekjoon\Backjoon\Debug\Backjoon.exe
