@@ -48,5 +48,8 @@
     <ClCompile Include="1012 유기농 배추.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1085 직사각형에서 탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
