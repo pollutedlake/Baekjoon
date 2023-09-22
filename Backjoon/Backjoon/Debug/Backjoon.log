@@ -1,3 +1,9 @@
 ﻿  1022 소용돌이 예쁘게 출력하기.cpp
-C:\Users\psh95\Desktop\상현\Baekjoon\Backjoon\Backjoon\1022 소용돌이 예쁘게 출력하기.cpp(12,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
-  Backjoon.vcxproj -> C:\Users\psh95\Desktop\상현\Baekjoon\Backjoon\Debug\Backjoon.exe
+C:\Users\언리얼\Desktop\박상현\백준\Baekjoon\Backjoon\Backjoon\1022 소용돌이 예쁘게 출력하기.cpp(45,19): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+C:\Users\언리얼\Desktop\박상현\백준\Baekjoon\Backjoon\Backjoon\1022 소용돌이 예쁘게 출력하기.cpp(45,19): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\언리얼\Desktop\박상현\백준\Baekjoon\Backjoon\Backjoon\1022 소용돌이 예쁘게 출력하기.cpp(45,19): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\언리얼\Desktop\박상현\백준\Baekjoon\Backjoon\Backjoon\1022 소용돌이 예쁘게 출력하기.cpp(46,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\언리얼\Desktop\박상현\백준\Baekjoon\Backjoon\Backjoon\1022 소용돌이 예쁘게 출력하기.cpp(50,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+C:\Users\언리얼\Desktop\박상현\백준\Baekjoon\Backjoon\Backjoon\1022 소용돌이 예쁘게 출력하기.cpp(50,11): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\언리얼\Desktop\박상현\백준\Baekjoon\Backjoon\Backjoon\1022 소용돌이 예쁘게 출력하기.cpp(50,11): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  Backjoon.vcxproj -> C:\Users\언리얼\Desktop\박상현\백준\Baekjoon\Backjoon\Debug\Backjoon.exe
